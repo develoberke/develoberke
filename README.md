@@ -4,9 +4,7 @@
 - SQL, NoSQL
 - Microservices architecture
 
-batuhanberke.yildirim@gmail.com -
-batuhanberke.yildirim@agu.edu.tr -
-develoberke@gmail.com
+batuhanberke.yildirim@gmail.com
 
 <!---
 BBerkeYildirim/BBerkeYildirim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
